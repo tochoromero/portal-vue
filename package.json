@@ -38,7 +38,7 @@
     "test": "yarn jest --runInBand"
   },
   "engines": {
-    "node": ">=14"
+    "node": ">=12"
   },
   "peerDependencies": {
     "vue": "^3.0.4"
